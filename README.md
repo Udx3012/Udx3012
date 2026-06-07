@@ -6,10 +6,6 @@ B.Tech AIML • Observer of System Failures • Builder of Intelligent Systems
 
 I enjoy building things that think, automate, and solve problems.
 
-My current focus is AI Agents, Machine Learning, and software systems that combine intelligence with real-world utility. I like experimenting with automation, security concepts, and backend architectures while constantly learning new technologies.
-
-Previously spent way too many hours in After Effects and Premiere Pro. Now most of that creative energy goes into code.
-
 Building >> Learning >> Iterating
 
 🧠 Currently exploring AI Agents, LLMs and cybersecurity. Former video editor.
