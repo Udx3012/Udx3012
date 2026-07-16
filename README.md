@@ -6,7 +6,7 @@ B.Tech AIML • Observer of System Failures • Builder of Intelligent Systems
 
 I enjoy building things that think, automate, and solve problems.
 
-🧠 Currently exploring AI Agents, LLMs and cybersecurity. Former video editor.
+🧠 Currently exploring AI Agents, LLMs and cybersecurity. Also a video editor.
 
 ## 🤖 AI / AIML
 
