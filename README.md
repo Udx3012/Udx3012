@@ -8,133 +8,73 @@ I enjoy building things that think, automate, and solve problems.
 
 🧠 Currently exploring AI Agents, LLMs and cybersecurity. Also a video editor.
 
-## 🤖 AI / AIML
+## 🤖 AI & Machine Learning
+Building intelligent systems with modern AI frameworks and tools.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" height="36" alt="PyTorch" />
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn" />
-</a>
-
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" />
-</a>
-
-<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/llamaindex" width="36" height="36" alt="LlamaIndex" />
-</a>
-
-<a href="https://groq.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/groq" width="36" height="36" alt="Groq" />
-</a>
-
-<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/google" width="36" height="36" alt="Gemini API" />
-</a>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white)](https://www.llamaindex.ai/)
+[![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
+[![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 ---
 
 ## 💻 Programming Languages
+Multi-language expertise across systems, web, and performance-critical applications.
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-</p>
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ---
 
 ## 🌐 Frontend Development
+Creating responsive, interactive, and performant user interfaces.
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJS" /></a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind CSS" />
-</a>
-
-<a href="https://www.framer.com/motion/" target="_blank">
-<img src="https://cdn.simpleicons.org/framer/0055FF" width="36" height="36" alt="Framer Motion" />
-</a>
-
-<a href="https://threejs.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" width="36" height="36" alt="Three.js" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" target="_blank">
-<img src="https://cdn.simpleicons.org/webgl" width="36" height="36" alt="WebGL" />
-</a>
-</p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
 ---
 
 ## ⚙️ Backend & APIs
+Architecting scalable services and building robust APIs.
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
-</a>
-</p>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
 ## 🗄️ Databases & Vector Stores
+Persistent data solutions from relational to vector databases.
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />
-</a>
-
-<a href="https://supabase.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="36" height="36" alt="Supabase" />
-</a>
-
-<a href="https://qdrant.tech/" target="_blank">
-<img src="https://cdn.simpleicons.org/qdrant" width="36" height="36" alt="Qdrant" />
-</a>
-</p>
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)](https://supabase.com/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-4B0082?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 
 ---
 
 ## 🎨 Design & Content Creation
+Motion graphics, visual design, and digital media production.
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+[![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremiere&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
 ## 🔧 Hardware & Embedded
 
