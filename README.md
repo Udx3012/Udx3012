@@ -9,7 +9,6 @@ I enjoy building things that think, automate, and solve problems.
 🧠 Currently exploring AI Agents, LLMs and cybersecurity. Also a video editor.
 
 ## 🤖 AI & Machine Learning
-Building intelligent systems with modern AI frameworks and tools.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -22,7 +21,6 @@ Building intelligent systems with modern AI frameworks and tools.
 ---
 
 ## 💻 Programming Languages
-Multi-language expertise across systems, web, and performance-critical applications.
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
@@ -35,7 +33,6 @@ Multi-language expertise across systems, web, and performance-critical applicati
 ---
 
 ## 🌐 Frontend Development
-Creating responsive, interactive, and performant user interfaces.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -48,7 +45,6 @@ Creating responsive, interactive, and performant user interfaces.
 ---
 
 ## ⚙️ Backend & APIs
-Architecting scalable services and building robust APIs.
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -67,7 +63,6 @@ Persistent data solutions from relational to vector databases.
 ---
 
 ## 🎨 Design & Content Creation
-Motion graphics, visual design, and digital media production.
 
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
